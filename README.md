@@ -24,8 +24,8 @@
  - matplotlib: ` pip install matplotlib `.
   
 # Live links:
-  - Github URL :- `https://github.com/rupalshukla82/suicides-data-analysis`
-  - Live Demo :- `https://colab.research.google.com/github/rupalshukla82/suicides-data-analysis/blob/main/index.ipynb`
+  - Github URL :- https://github.com/rupalshukla82/suicides-data-analysis
+  - Live Demo :- https://colab.research.google.com/github/rupalshukla82/suicides-data-analysis/blob/main/index.ipynb
 
 # Technology used 
   - numpy :- For numerical operations.
