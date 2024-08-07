@@ -19,9 +19,9 @@
 
 # How to use 
  - To use this repository on your own computer, you need to install the following Python packages:
- # numpy:  ` pip install numpy `.
- # pandas: ` pip install pandas `.
- # matplotlib: ` pip install matplotlib `.
+ - numpy:  ` pip install numpy `.
+ - pandas: ` pip install pandas `.
+ - matplotlib: ` pip install matplotlib `.
   
 # Live links:
   - Github URL :-
@@ -34,8 +34,8 @@
 
 # Lesson learned 
  In this project, I learned several new things, such as:
- # How to handle and replace NaN values.
- # How to create subplots to compare data between two values.
- # Calculating unique values in a CSV file.
- # Finding the maximum value using the ` idxmax() ` method and the minimum value using the ` idxmin() ` method.
- # Summing null values using the ` isnull() ` method.
+ - How to handle and replace NaN values.
+ - How to create subplots to compare data between two values.
+ - Calculating unique values in a CSV file.
+ - Finding the maximum value using the ` idxmax() ` method and the minimum value using the ` idxmin() ` method.
+ - Summing null values using the ` isnull() ` method.
